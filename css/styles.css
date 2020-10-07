@@ -53,12 +53,6 @@ h1 {
   color: #00897b;
 }
 
-.cloud3 {
-  left: 100px;
-  position: relative;
-
-  bottom: 700px;
-}
 .hopw{
   color: black;
   padding: 20px 0px;
@@ -90,14 +84,13 @@ a:hover{
   right: 100px;
   bottom: 550px;
 }
-
 .mountain {
   height: 600px;
   position: relative;
-
-  left: 5px;
+bottom: 0px;
+  right: auto;
+  left: auto;
 }
-
 .image1 {
   height: 200px;
   width: 200px;
